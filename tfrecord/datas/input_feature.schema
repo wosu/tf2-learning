@@ -1,0 +1,5 @@
+movieId,onehot,1001,1
+userId,onehot,30001,1
+label,onehot,2,0
+movieId,embedding,1001,16
+userId,embedding,30001,32,datas/test_pre_embedding
